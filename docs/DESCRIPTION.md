@@ -1,0 +1,98 @@
+# **SMART POOL**
+
+
+
+#### DESCRIZIONE
+
+
+
+Il progetto consiste in un prototipo di sistema Wireless Sensor Network (WSN) per il monitoraggio dei parametri chimico-fisici dell’acqua di una piscina. 
+
+Il sistema permette di rilevare pH, temperatura e torbidità in tempo reale, inviando i dati a un'interfaccia mobile per il controllo remoto.
+
+
+
+Il sistema nasce per superare i limiti del monitoraggio tradizionale, spesso dispendioso, soggetto a errori umani e potenzialmente rischioso per la manipolazione di reagenti chimici.
+
+
+
+\--------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+##### ARCHITETTURA HARDWARE
+
+
+
+###### 1\) Sensing (TelosB Sensing);
+
+
+
+Utilizza un mote TelosB per l'acquisizione dai sensori. I parametri monitorati includono:
+
+
+
+\-pH: Tramite una sonda che restituisce una tensione inversamente proporzionale al valore misurato.
+
+\-Torbidità: Misurata tramite un modulo a LED e fototransistor.
+
+\-Temperatura: Rilevata con una sonda NTC (10k).
+
+
+
+###### 
+
+###### 2\) Gateway (TelosB Sink \& ESP32);
+
+
+
+Un secondo TelosB funge da ricevitore (Sink) dei dati trasmessi via radio dal nodo di sensing.
+
+I dati passano poi a un ESP32 tramite connessione seriale UART (configurata a 9600 baud).
+
+
+
+\-Attuazione: Il sistema gestisce l'attivazione di pompe per il dosaggio di soluzioni acide o basiche in base alle soglie di pH rilevate.
+
+
+
+
+
+
+
+##### 
+
+##### PROGETTAZIONE SOFTWARE
+
+
+
+Il software è distribuito su diverse piattaforme:
+
+
+
+\-TelosB: Programmato in nesC su sistema operativo TinyOS. La logica è modulare, con configurazioni ADC specifiche per ogni sensore (es. Canale, VRef).
+
+\-ESP32: Programmato tramite Arduino IDE, gestisce la connettività Wi-Fi e l'inoltro dei dati al Cloud.
+
+\-Blynk: Utilizzato per la creazione della dashboard utente, dove vengono visualizzati torbidità, pH, temperatura e timestamp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
