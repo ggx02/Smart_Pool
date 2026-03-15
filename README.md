@@ -32,3 +32,11 @@ Sistema intelligente per la gestione e il monitoraggio automatico della piscina.
 
  `docs`: Presentazione del progetto e documentazione tecnica.
 
+
+
+🎬 Video Dimostrativo del Progetto
+
+è possibile visualizzare il video della simulazione completa qui:
+
+`https://github.com/ggx02/Smart_Pool/releases/download/V1.0/ProjectVideo.mp4`
+
