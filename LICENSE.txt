@@ -1,4 +1,4 @@
-Copyright (c) 2026 Gius_
+Copyright (c) 2026 Giuseppe Griffo
 
 All rights reserved.
 
