@@ -40,3 +40,8 @@ Sistema intelligente per la gestione e il monitoraggio automatico della piscina.
 
 <https://github.com/ggx02/Smart_Pool/releases/download/V1.0/ProjectVideo.mp4>
 
+## 🎬 Demo della Simulazione
+
+<video src="https://github.com/ggx02/Smart_Pool/releases/download/V1.0/ProjectVideo.mp4" controls="controls" style="max-width: 100%; height: auto;">
+  Il tuo browser non supporta la riproduzione video. Puoi guardarlo qui: [Link al video](INCOLLA_QUI_IL_LINK_DIRETTO_AL_VIDEO)
+</video>
