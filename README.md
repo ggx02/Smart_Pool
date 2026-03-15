@@ -16,7 +16,7 @@ Sistema intelligente per la gestione e il monitoraggio automatico della piscina.
 
 🛠 Hardware utilizzato
 
-\- Microcontrollore: TelosB, ESP32.
+\- Microcontrollori: TelosB, ESP32.
 
 \- Sensori: 
 1. Sensore di temperatura Ntc 10K 
