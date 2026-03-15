@@ -1,0 +1,11 @@
+Copyright (c) 2026 Gius_
+
+Tutti i diritti riservati.
+
+Il codice e la documentazione contenuti in questo repository sono pubblicati a solo scopo illustrativo e di visualizzazione. 
+Non è concessa alcuna autorizzazione all'uso, alla copia, alla modifica o alla distribuzione del software per qualsiasi scopo, 
+senza il preventivo consenso scritto del proprietario del copyright.
+
+IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPLICITE O IMPLICITE. 
+IN NESSUN CASO L'AUTORE O IL TITOLARE DEL COPYRIGHT SARÀ RESPONSABILE PER RECLAMI, DANNI O ALTRE RESPONSABILITÀ, 
+SIA IN UN'AZIONE DI CONTRATTO, ILLECITO O ALTRO, DERIVANTE DA O IN CONNESSIONE AL SOFTWARE O ALL'USO DEL SOFTWARE.
