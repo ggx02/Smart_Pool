@@ -1,11 +1,12 @@
 Copyright (c) 2026 Gius_
 
-Tutti i diritti riservati.
+All rights reserved.
 
-Il codice e la documentazione contenuti in questo repository sono pubblicati a solo scopo illustrativo e di visualizzazione. 
-Non è concessa alcuna autorizzazione all'uso, alla copia, alla modifica o alla distribuzione del software per qualsiasi scopo, 
-senza il preventivo consenso scritto del proprietario del copyright.
+The code and documentation contained in this repository are published for illustrative and display purposes only. 
+No permission is granted to use, copy, modify, or distribute the software for any purpose without the prior 
+written consent of the copyright owner.
 
-IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPLICITE O IMPLICITE. 
-IN NESSUN CASO L'AUTORE O IL TITOLARE DEL COPYRIGHT SARÀ RESPONSABILE PER RECLAMI, DANNI O ALTRE RESPONSABILITÀ, 
-SIA IN UN'AZIONE DI CONTRATTO, ILLECITO O ALTRO, DERIVANTE DA O IN CONNESSIONE AL SOFTWARE O ALL'USO DEL SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. 
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
+WITH THE SOFTWARE OR THE USE OF THE SOFTWARE.
